@@ -107,9 +107,9 @@ Open `auto_tagging_tickets.ipynb` in Kaggle or Jupyter
 ```
 Auto-Tagging-Support-Tickets-LLM/
 │
-├── auto_tagging_tickets.ipynb   # Main Jupyter Notebook
-├── requirements.txt             # Dependencies
-└── README.md                    # Project documentation
+├── auto_tagging_tickets.ipynb     # Main Jupyter Notebook
+├── customer_support_tickets.csv   # Dataset path 
+└── README.md                      # Project documentation
 ```
 
 ---
