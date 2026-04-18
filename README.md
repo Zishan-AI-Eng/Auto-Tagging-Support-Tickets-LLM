@@ -84,7 +84,7 @@ Build an intelligent system that:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Dev-ZishanKhan/Auto-Tagging-Support-Tickets-LLM
+git clone https://github.com/Zishan-AI-Eng/Auto-Tagging-Support-Tickets-LLM
 cd Auto-Tagging-Support-Tickets-LLM
 
 ### 2. Install Dependencies
@@ -114,14 +114,9 @@ Auto-Tagging-Support-Tickets-LLM/
 
 ---
 
-## 📝 License
-
-This project is part of the **DevelopersHub Corporation AI/ML Engineering Internship** — Advanced Task 5.
-
----
 
 ## 👨‍💻 Author
 
 **Your Name**
-- 🌐 GitHub: [@Dev-ZishanKhan](https://github.com/Dev-ZishanKhan)
+- 🌐 GitHub: [@Dev-ZishanKhan](https://github.com/Zishan-AI-Eng)
 - 💼 LinkedIn: [zishan-coderx](https://www.linkedin.com/in/zishan-coderx-048483370/)
